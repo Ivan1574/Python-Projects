@@ -1,0 +1,11 @@
+#Testando Variaveis junto com print na forma de um jogo
+
+##Variaveis
+player = "Junin";
+weapon = "Warhammer";
+level = 19
+strength = 35
+
+##print
+print("Welcome", player,"!");
+print("Your Weapon of choice is a", weapon,", your current Level is", level,", wich means your attacks deal", strength * level,"Damage!");
