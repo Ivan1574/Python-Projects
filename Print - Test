@@ -1,0 +1,6 @@
+#Testando print
+
+print(15);
+print(2 + 2);
+print("Palavra Teste");
+print("2" + "2");
